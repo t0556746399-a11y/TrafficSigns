@@ -1,5 +1,6 @@
 pandas
 numpy
-fpdf
+pyproj
+scikit-learn
+fpdf2
 pytest
-psycopg2-binary
