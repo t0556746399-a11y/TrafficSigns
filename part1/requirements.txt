@@ -1,0 +1,6 @@
+supervision
+opencv-python
+python-dotenv
+httpx
+google-genai
+pillow
