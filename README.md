@@ -119,4 +119,4 @@ Part 2 expects two CSV files in `part2/data/`:
 
 ## Authors
 
-Built together by [@t0556746399-a11y](https://github.com/t0556746399-a11y) and Hadas.
+Built together by [@t0556746399-a11y](https://github.com/t0556746399-a11y) and [hadaskar](https://github.com/hadaskar).
