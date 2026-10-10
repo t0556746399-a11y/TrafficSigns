@@ -4,3 +4,6 @@ python-dotenv
 httpx
 google-genai
 pillow
+pandas
+numpy
+urllib3
